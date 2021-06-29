@@ -6,7 +6,7 @@ https://douglasvulcano.github.io/frontend-Finans/
 
 # Sobre o projeto
 
-Esse projeto é um projeto Front-End elaborado para a divulgação de um aplicativo chamado Finans, o objetivo foi criar um site utilizandos os padrões profissionais e exercitar o uso do framework Bootstrap.
+Esse é um projeto Front-End elaborado para a divulgação de um aplicativo chamado Finans, o objetivo foi criar um site utilizandos os padrões profissionais e exercitar o uso do framework Bootstrap.
 
 ## Layout web
 ![Web 1](https://github.com/DouglasVulcano/images_portfolio/blob/main/Finans/layoutWeb.JPG)
